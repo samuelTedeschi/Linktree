@@ -1,0 +1,21 @@
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+h2{
+    padding-top: 28px;
+}
+
+.btns{
+    display: flex;
+    flex-direction: column;
+    margin-left: 553px;
+    margin-right: 553px;
+    margin-top: 83px;
+}
+
+.btns button{
+    margin-bottom: 16px;
+}
