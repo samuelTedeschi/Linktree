@@ -1,3 +1,8 @@
+*{
+    box-sizing: border-box;
+    margin-top: 20px;
+    
+}
 
 img{
     width: 100px;
@@ -8,14 +13,14 @@ h2{
     padding-top: 28px;
 }
 
-.btns{
-    display: flex;
-    flex-direction: column;
-    margin-left: 553px;
-    margin-right: 553px;
+#btns{
     margin-top: 83px;
 }
 
-.btns button{
+#btns button{
     margin-bottom: 16px;
+}
+
+#btns a {
+    text-decoration: none;
 }
