@@ -4,6 +4,8 @@
     
 }
 
+
+
 img{
     width: 200px;
     height: 200px;
@@ -28,7 +30,7 @@ h2{
 }
 
 #btns img {
-    
+    padding: 0;
     height: 20px;
     width: 20px;
     margin: 0;
