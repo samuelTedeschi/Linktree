@@ -14,6 +14,6 @@ Aprendi e revisei meus conhecimentos em Css e Bootestrap
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/samuelTedeschi/Linktree/blob/master/Captura%20de%20tela_2022-07-07_14-10-03.png)
 
 
