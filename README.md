@@ -9,7 +9,7 @@ https://samueltedeschi.github.io/Linktree/
 
 ## Aprendizados
 
-Aprendi e revisei meus conhecimentos em Css e Bootestrap
+Aprendi e revisei meus conhecimentos em Css e Bootstrap
 
 
 ## Screenshots
